@@ -19,16 +19,6 @@
         "code": "06127",
         "parent_code": "182"
     },
-    "06130": {
-        "name": "Tân Việt",
-        "type": "xa",
-        "slug": "tan-viet",
-        "name_with_type": "Xã Tân Việt",
-        "path": "Tân Việt, Văn Lãng, Lạng Sơn",
-        "path_with_type": "Xã Tân Việt, Huyện Văn Lãng, Tỉnh Lạng Sơn",
-        "code": "06130",
-        "parent_code": "182"
-    },
     "06133": {
         "name": "Bắc La",
         "type": "xa",
@@ -50,12 +40,12 @@
         "parent_code": "182"
     },
     "06139": {
-        "name": "Trùng Quán",
+        "name": "Bắc Hùng",
         "type": "xa",
-        "slug": "trung-quan",
-        "name_with_type": "Xã Trùng Quán",
-        "path": "Trùng Quán, Văn Lãng, Lạng Sơn",
-        "path_with_type": "Xã Trùng Quán, Huyện Văn Lãng, Tỉnh Lạng Sơn",
+        "slug": "bac-hung",
+        "name_with_type": "Xã Bắc Hùng",
+        "path": "Bắc Hùng, Văn Lãng, Lạng Sơn",
+        "path_with_type": "Xã Bắc Hùng, Huyện Văn Lãng, Tỉnh Lạng Sơn",
         "code": "06139",
         "parent_code": "182"
     },
@@ -67,16 +57,6 @@
         "path": "Tân Tác, Văn Lãng, Lạng Sơn",
         "path_with_type": "Xã Tân Tác, Huyện Văn Lãng, Tỉnh Lạng Sơn",
         "code": "06142",
-        "parent_code": "182"
-    },
-    "06145": {
-        "name": "An Hùng",
-        "type": "xa",
-        "slug": "an-hung",
-        "name_with_type": "Xã An Hùng",
-        "path": "An Hùng, Văn Lãng, Lạng Sơn",
-        "path_with_type": "Xã An Hùng, Huyện Văn Lãng, Tỉnh Lạng Sơn",
-        "code": "06145",
         "parent_code": "182"
     },
     "06148": {
@@ -100,12 +80,12 @@
         "parent_code": "182"
     },
     "06154": {
-        "name": "Tân Lang",
+        "name": "Bắc Việt",
         "type": "xa",
-        "slug": "tan-lang",
-        "name_with_type": "Xã Tân Lang",
-        "path": "Tân Lang, Văn Lãng, Lạng Sơn",
-        "path_with_type": "Xã Tân Lang, Huyện Văn Lãng, Tỉnh Lạng Sơn",
+        "slug": "bac-viet",
+        "name_with_type": "Xã Bắc Việt",
+        "path": "Bắc Việt, Văn Lãng, Lạng Sơn",
+        "path_with_type": "Xã Bắc Việt, Huyện Văn Lãng, Tỉnh Lạng Sơn",
         "code": "06154",
         "parent_code": "182"
     },
@@ -147,16 +127,6 @@
         "path": "Tân Thanh, Văn Lãng, Lạng Sơn",
         "path_with_type": "Xã Tân Thanh, Huyện Văn Lãng, Tỉnh Lạng Sơn",
         "code": "06166",
-        "parent_code": "182"
-    },
-    "06169": {
-        "name": "Nam La",
-        "type": "xa",
-        "slug": "nam-la",
-        "name_with_type": "Xã Nam La",
-        "path": "Nam La, Văn Lãng, Lạng Sơn",
-        "path_with_type": "Xã Nam La, Huyện Văn Lãng, Tỉnh Lạng Sơn",
-        "code": "06169",
         "parent_code": "182"
     },
     "06172": {

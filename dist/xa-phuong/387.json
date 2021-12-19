@@ -1,14 +1,4 @@
 {
-    "14992": {
-        "name": "Quan Sơn",
-        "type": "thi-tran",
-        "slug": "quan-son",
-        "name_with_type": "Thị trấn Quan Sơn",
-        "path": "Quan Sơn, Quan Sơn, Thanh Hóa",
-        "path_with_type": "Thị trấn Quan Sơn, Huyện Quan Sơn, Tỉnh Thanh Hóa",
-        "code": "14992",
-        "parent_code": "387"
-    },
     "14995": {
         "name": "Trung Xuân",
         "type": "xa",
@@ -91,11 +81,11 @@
     },
     "15016": {
         "name": "Sơn Lư",
-        "type": "xa",
+        "type": "thi-tran",
         "slug": "son-lu",
-        "name_with_type": "Xã Sơn Lư",
+        "name_with_type": "Thị trấn Sơn Lư",
         "path": "Sơn Lư, Quan Sơn, Thanh Hóa",
-        "path_with_type": "Xã Sơn Lư, Huyện Quan Sơn, Tỉnh Thanh Hóa",
+        "path_with_type": "Thị trấn Sơn Lư, Huyện Quan Sơn, Tỉnh Thanh Hóa",
         "code": "15016",
         "parent_code": "387"
     },

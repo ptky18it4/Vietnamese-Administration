@@ -1,14 +1,4 @@
 {
-    "15028": {
-        "name": "Lang Chánh",
-        "type": "thi-tran",
-        "slug": "lang-chanh",
-        "name_with_type": "Thị trấn Lang Chánh",
-        "path": "Lang Chánh, Lang Chánh, Thanh Hóa",
-        "path_with_type": "Thị trấn Lang Chánh, Huyện Lang Chánh, Tỉnh Thanh Hóa",
-        "code": "15028",
-        "parent_code": "388"
-    },
     "15031": {
         "name": "Yên Khương",
         "type": "xa",
@@ -90,12 +80,12 @@
         "parent_code": "388"
     },
     "15055": {
-        "name": "Quang Hiến",
-        "type": "xa",
-        "slug": "quang-hien",
-        "name_with_type": "Xã Quang Hiến",
-        "path": "Quang Hiến, Lang Chánh, Thanh Hóa",
-        "path_with_type": "Xã Quang Hiến, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+        "name": "Lang Chánh",
+        "type": "thi-tran",
+        "slug": "lang-chanh",
+        "name_with_type": "Thị trấn Lang Chánh",
+        "path": "Lang Chánh, Lang Chánh, Thanh Hóa",
+        "path_with_type": "Thị trấn Lang Chánh, Huyện Lang Chánh, Tỉnh Thanh Hóa",
         "code": "15055",
         "parent_code": "388"
     },

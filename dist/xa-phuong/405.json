@@ -29,16 +29,6 @@
         "code": "16384",
         "parent_code": "405"
     },
-    "16387": {
-        "name": "Đông Khê",
-        "type": "xa",
-        "slug": "dong-khe",
-        "name_with_type": "Xã Đông Khê",
-        "path": "Đông Khê, Đông Sơn, Thanh Hóa",
-        "path_with_type": "Xã Đông Khê, Huyện Đông Sơn, Tỉnh Thanh Hóa",
-        "code": "16387",
-        "parent_code": "405"
-    },
     "16390": {
         "name": "Đông Hòa",
         "type": "xa",
@@ -90,12 +80,12 @@
         "parent_code": "405"
     },
     "16408": {
-        "name": "Đông Anh",
+        "name": "Đông Khê",
         "type": "xa",
-        "slug": "dong-anh",
-        "name_with_type": "Xã Đông Anh",
-        "path": "Đông Anh, Đông Sơn, Thanh Hóa",
-        "path_with_type": "Xã Đông Anh, Huyện Đông Sơn, Tỉnh Thanh Hóa",
+        "slug": "dong-khe",
+        "name_with_type": "Xã Đông Khê",
+        "path": "Đông Khê, Đông Sơn, Thanh Hóa",
+        "path_with_type": "Xã Đông Khê, Huyện Đông Sơn, Tỉnh Thanh Hóa",
         "code": "16408",
         "parent_code": "405"
     },

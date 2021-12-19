@@ -1,24 +1,4 @@
 {
-    "07753": {
-        "name": "Bích Động",
-        "type": "thi-tran",
-        "slug": "bich-dong",
-        "name_with_type": "Thị trấn  Bích Động",
-        "path": "Bích Động, Việt Yên, Bắc Giang",
-        "path_with_type": "Thị trấn  Bích Động, Huyện Việt Yên, Tỉnh Bắc Giang",
-        "code": "07753",
-        "parent_code": "222"
-    },
-    "07756": {
-        "name": "Nếnh",
-        "type": "thi-tran",
-        "slug": "nenh",
-        "name_with_type": "Thị trấn Nếnh",
-        "path": "Nếnh, Việt Yên, Bắc Giang",
-        "path_with_type": "Thị trấn Nếnh, Huyện Việt Yên, Tỉnh Bắc Giang",
-        "code": "07756",
-        "parent_code": "222"
-    },
     "07759": {
         "name": "Thượng Lan",
         "type": "xa",
@@ -80,12 +60,12 @@
         "parent_code": "222"
     },
     "07777": {
-        "name": "Bích Sơn",
-        "type": "xa",
-        "slug": "bich-son",
-        "name_with_type": "Xã Bích Sơn",
-        "path": "Bích Sơn, Việt Yên, Bắc Giang",
-        "path_with_type": "Xã Bích Sơn, Huyện Việt Yên, Tỉnh Bắc Giang",
+        "name": "Bích Động",
+        "type": "thi-tran",
+        "slug": "bich-dong",
+        "name_with_type": "Thị trấn Bích Động",
+        "path": "Bích Động, Việt Yên, Bắc Giang",
+        "path_with_type": "Thị trấn Bích Động, Huyện Việt Yên, Tỉnh Bắc Giang",
         "code": "07777",
         "parent_code": "222"
     },
@@ -140,12 +120,12 @@
         "parent_code": "222"
     },
     "07795": {
-        "name": "Hoàng Ninh",
-        "type": "xa",
-        "slug": "hoang-ninh",
-        "name_with_type": "Xã Hoàng Ninh",
-        "path": "Hoàng Ninh, Việt Yên, Bắc Giang",
-        "path_with_type": "Xã Hoàng Ninh, Huyện Việt Yên, Tỉnh Bắc Giang",
+        "name": "Nếnh",
+        "type": "thi-tran",
+        "slug": "nenh",
+        "name_with_type": "Thị trấn Nếnh",
+        "path": "Nếnh, Việt Yên, Bắc Giang",
+        "path_with_type": "Thị trấn Nếnh, Huyện Việt Yên, Tỉnh Bắc Giang",
         "code": "07795",
         "parent_code": "222"
     },

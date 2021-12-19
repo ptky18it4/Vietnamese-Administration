@@ -109,23 +109,13 @@
         "code": "28066",
         "parent_code": "804"
     },
-    "28069": {
-        "name": "Long Thành",
-        "type": "xa",
-        "slug": "long-thanh",
-        "name_with_type": "Xã Long Thành",
-        "path": "Long Thành, Thủ Thừa, Long An",
-        "path_with_type": "Xã Long Thành, Huyện Thủ Thừa, Tỉnh Long An",
-        "code": "28069",
-        "parent_code": "804"
-    },
     "28072": {
-        "name": "Tân Lập",
+        "name": "Tân Long",
         "type": "xa",
-        "slug": "tan-lap",
-        "name_with_type": "Xã Tân Lập",
-        "path": "Tân Lập, Thủ Thừa, Long An",
-        "path_with_type": "Xã Tân Lập, Huyện Thủ Thừa, Tỉnh Long An",
+        "slug": "tan-long",
+        "name_with_type": "Xã Tân Long",
+        "path": "Tân Long, Thủ Thừa, Long An",
+        "path_with_type": "Xã Tân Long, Huyện Thủ Thừa, Tỉnh Long An",
         "code": "28072",
         "parent_code": "804"
     }

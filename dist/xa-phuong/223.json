@@ -1,14 +1,4 @@
 {
-    "07810": {
-        "name": "Thắng",
-        "type": "thi-tran",
-        "slug": "thang",
-        "name_with_type": "Thị trấn Thắng",
-        "path": "Thắng, Hiệp Hòa, Bắc Giang",
-        "path_with_type": "Thị trấn Thắng, Huyện Hiệp Hòa, Tỉnh Bắc Giang",
-        "code": "07810",
-        "parent_code": "223"
-    },
     "07813": {
         "name": "Đồng Tân",
         "type": "xa",
@@ -100,12 +90,12 @@
         "parent_code": "223"
     },
     "07840": {
-        "name": "Đức Thắng",
-        "type": "xa",
-        "slug": "duc-thang",
-        "name_with_type": "Xã Đức Thắng",
-        "path": "Đức Thắng, Hiệp Hòa, Bắc Giang",
-        "path_with_type": "Xã Đức Thắng, Huyện Hiệp Hòa, Tỉnh Bắc Giang",
+        "name": "Thắng",
+        "type": "thi-tran",
+        "slug": "thang",
+        "name_with_type": "Thị trấn Thắng",
+        "path": "Thắng, Hiệp Hòa, Bắc Giang",
+        "path_with_type": "Thị trấn Thắng, Huyện Hiệp Hòa, Tỉnh Bắc Giang",
         "code": "07840",
         "parent_code": "223"
     },

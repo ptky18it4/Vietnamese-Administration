@@ -40,12 +40,12 @@
         "parent_code": "441"
     },
     "18325": {
-        "name": "Sơn Thọ",
+        "name": "Thọ Điền",
         "type": "xa",
-        "slug": "son-tho",
-        "name_with_type": "Xã Sơn Thọ",
-        "path": "Sơn Thọ, Vũ Quang, Hà Tĩnh",
-        "path_with_type": "Xã Sơn Thọ, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "slug": "tho-dien",
+        "name_with_type": "Xã Thọ Điền",
+        "path": "Thọ Điền, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Thọ Điền, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
         "code": "18325",
         "parent_code": "441"
     },
@@ -79,16 +79,6 @@
         "code": "18334",
         "parent_code": "441"
     },
-    "18337": {
-        "name": "Hương Điền",
-        "type": "xa",
-        "slug": "huong-dien",
-        "name_with_type": "Xã Hương Điền",
-        "path": "Hương Điền, Vũ Quang, Hà Tĩnh",
-        "path_with_type": "Xã Hương Điền, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
-        "code": "18337",
-        "parent_code": "441"
-    },
     "18340": {
         "name": "Hương Minh",
         "type": "xa",
@@ -100,23 +90,13 @@
         "parent_code": "441"
     },
     "18343": {
-        "name": "Hương Thọ",
+        "name": "Quang Thọ",
         "type": "xa",
-        "slug": "huong-tho",
-        "name_with_type": "Xã Hương Thọ",
-        "path": "Hương Thọ, Vũ Quang, Hà Tĩnh",
-        "path_with_type": "Xã Hương Thọ, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+        "slug": "quang-tho",
+        "name_with_type": "Xã Quang Thọ",
+        "path": "Quang Thọ, Vũ Quang, Hà Tĩnh",
+        "path_with_type": "Xã Quang Thọ, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
         "code": "18343",
-        "parent_code": "441"
-    },
-    "18346": {
-        "name": "Hương Quang",
-        "type": "xa",
-        "slug": "huong-quang",
-        "name_with_type": "Xã Hương Quang",
-        "path": "Hương Quang, Vũ Quang, Hà Tĩnh",
-        "path_with_type": "Xã Hương Quang, Huyện Vũ Quang, Tỉnh Hà Tĩnh",
-        "code": "18346",
         "parent_code": "441"
     }
 }
